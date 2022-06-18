@@ -77,7 +77,7 @@ p {
 }
 
 /* reorder css elements to match html*/
-/*reference class then div to not need to reference id*/
+/*simplified to reference id and div intead of multiple ids*/
 #content div{
     margin-bottom: 20px;
     padding: 50px;
