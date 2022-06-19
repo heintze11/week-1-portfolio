@@ -17,7 +17,7 @@ Refactor a website to include HTML semantic elements and clean up css from redun
 
 
 ## Final Screenshot
-![week-1-final-screenshot](https://user-images.githubusercontent.com/105472001/174498056-2f8bf4c6-a25a-4bcd-bfd7-1ee8be6cd3a5.png)
+![week-1-final-screenshot](https://github.com/heintze11/week-1-portfolio/blob/main/images/week-1-final-screenshot.png)
 
 
 
