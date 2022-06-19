@@ -13,7 +13,7 @@ Refactor a website to include HTML semantic elements and clean up css from redun
 ## Links
 [Github Repo](https://github.com/heintze11/week-1-portfolio "Levi's Week 1 Repo")
 
-[Github Pages Link](https://heintze11.github.io/week-1-portfolio/ Levi's Week 1 Website")
+[Github Pages Link](https://heintze11.github.io/week-1-portfolio/ "Levi's Week 1 Website")
 
 
 ## Final Screenshot
