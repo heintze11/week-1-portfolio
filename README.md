@@ -11,8 +11,9 @@ Refactor a website to include HTML semantic elements and clean up css from redun
 5. Remove redundant css elements based on new element structure
 
 ## Links
-[Github Repo](https://github.com/heintze11/week-1-portfolio)
-[Github Pages Link](https://heintze11.github.io/week-1-portfolio/)
+[Github Repo](https://github.com/heintze11/week-1-portfolio "Levi's Week 1 Repo")
+
+[Github Pages Link](https://heintze11.github.io/week-1-portfolio/ Levi's Week 1 Website")
 
 
 ## Final Screenshot
